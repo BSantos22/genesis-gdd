@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# [Global: HTML5 website template](http://buckymaler.com/global)
 
-You can use the [editor on GitHub](https://github.com/telmobarros/monkeydestruction/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
 
-### Markdown
+The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This project was developed with HTML5, Sass, jQuery, and Hammer.js.
 
-```markdown
-Syntax highlighted code block
+Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
 
-# Header 1
-## Header 2
-### Header 3
+[LIVE PREVIEW](http://buckymaler.com/global)
 
-- Bulleted
-- List
+## Misc:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/telmobarros/monkeydestruction/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
+* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
